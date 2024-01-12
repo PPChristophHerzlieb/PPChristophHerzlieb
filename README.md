@@ -12,14 +12,6 @@ Derzeit arbeite ich an einer Flask-Web-App und weiteren Projekten für den OT-Be
 ## Kontakt
 Sie können mich intern in der Firma über Teams erreichen.
 
-## Zitat
-"Meine Hoffnung klaut mir niemand
-Meine Schmerzen schreiben Lieder
-Auch wenn die Schatten für dich sind wie Brüder
-Glaub mir, die Sonne kommt bald wieder"
-- SANTOS & Kontra K, "Die Sonne"
-
-
 <p align="center"> 
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/PPChristopHerzlieb/count.svg" />

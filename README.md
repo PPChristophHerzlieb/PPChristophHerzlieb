@@ -17,8 +17,3 @@ Derzeit arbeite ich an einer Flask-Web-App und weiteren Projekten für den OT-Be
 
 ## Kontakt
 Sie können mich intern in der Firma über Teams erreichen.
-
-<p align="center"> 
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/PPChristopHerzlieb/count.svg" />
-</p>
